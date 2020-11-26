@@ -16,6 +16,8 @@ yarn serve
 ### Compiles and minifies for production
 ```
 yarn build
+firebase deploy
+反映されなかったらキャッシュをクリア
 ```
 
 ### Lints and fixes files
