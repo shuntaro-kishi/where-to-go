@@ -1,6 +1,8 @@
 # where-to-go
 休日の行き先を決めます
 
+where-to-go-e3526.web.app
+
 ## Project setup
 ```
 yarn install
